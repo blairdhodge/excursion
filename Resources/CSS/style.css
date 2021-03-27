@@ -1,4 +1,10 @@
-body{ background-color: black
-text-align: center;
-font-family:Verdana, sans-serif;
-    
+body {
+    background-color: black;
+    text-align: center;
+    font-family: Verdana, sans-serif;}
+
+.head--main{
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
